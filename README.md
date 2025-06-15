@@ -42,7 +42,6 @@ You can find the full source code and implementation here:
 - Python
 - Streamlit
 - PyPDF2 / pdfminer / spaCy
-- NLP-based keyword extraction and scoring
 
 ---
 
