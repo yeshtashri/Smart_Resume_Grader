@@ -11,6 +11,13 @@ This app is deployed and live on the **Streamlit Cloud Platform**.
 
 ---
 
+## 🎥 Demo Video
+
+Watch a walkthrough of the application in action:  
+📺 [Smart Resume Grader – YouTube Demo](https://youtu.be/SR0gRitdjl8)
+
+---
+
 ## 🛠 Repository
 
 You can find the full source code and implementation here:  
